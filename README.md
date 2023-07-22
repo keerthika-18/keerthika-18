@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keerthika-18
-- 👀 I’m interested in python
+- 👀 I’m interested in python and app development
 - 🌱 I’m currently learning aritifical intelligence &data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
